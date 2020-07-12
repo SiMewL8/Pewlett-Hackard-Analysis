@@ -14,7 +14,7 @@ We began our analysis with gathering data of all the employees in our company. T
 - Salaries
 - Titles
 
-{!}[ERD.png]
+![schema-diag](https://raw.githubusercontent.com/SiMewL8/Pewlett-Hackard-Analysis/master/Employee_DB.png)
 
 To update our company database, we installed PostgreSQL 11 and switched to SQL database to better understand and ask questions about the data.
 
